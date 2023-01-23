@@ -1,0 +1,1 @@
+[Profesor{identificador=J20021, nombreProfesor=Jose, apellidosProfesor=Lopez, correoProfesor=jose2#@email.com, telefonoProfesor=43534534, anioIngresoProfesor=2002, grado_Academico=Maestria, adscripcionProfesor=2006}],
